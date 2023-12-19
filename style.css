@@ -1,11 +1,13 @@
 h1 {
-	font-size: 40px;
-	line-height: 1;
-	color: firebrick;
+  font-size: 40px;
+  line-height: 1;
+  color: firebrick;
 }
 
 p {
-	background-color: aqua;
-	color: magenta;
+  background-color: aqua;
+  color: green;
 }
-td { font-size: 16px; }
+td {
+  font-size: 16px;
+}
